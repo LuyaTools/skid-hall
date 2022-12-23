@@ -34,3 +34,9 @@ Skid-Rating: 10/10
 Reason: Using my tools with token grabbers
 Skid-Rating: 3/10
 ```
+
+```
+- billythegoat356 / pystyle libary
+Reason: Added a RAT to his pystyle libary
+Skid-Rating: 99999/10
+```
