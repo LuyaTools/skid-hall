@@ -17,3 +17,8 @@ Reason: steals my stuff and names them swezy-tools
 - NightfallGT
 Reason: Dual-Hooked is Token Grabber
 ```
+
+```
+- Exordium
+Reason: Fake 100$ Discord-Token-Gen lmao
+```
