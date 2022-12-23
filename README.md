@@ -2,9 +2,10 @@
 A list of all skids
 
 ```
-Myself. Im a skid. But not this skid-ish like these idiots:
+Myself. Im a skid. Atleast i give credits. But not this skid-ish like these idiots:
 ```
 
+<br>
 
 ```
 - Swezy
