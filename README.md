@@ -22,3 +22,8 @@ Reason: Dual-Hooked is Token Grabber
 - Exordium
 Reason: Fake 100$ Discord-Token-Gen lmao
 ```
+
+```
+- Kero / KeroX
+Reason: Using my tools with token grabbers
+```
