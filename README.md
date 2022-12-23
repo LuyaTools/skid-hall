@@ -11,7 +11,7 @@ Myself. Im a skid. Atleast i give credits. But not this skid-ish like these idio
 - Swezy
 Discord-Name: 丂 山 乇 乙 ㄚ 🌺#9646
 Discord-ID: 646255253045379073
-Reason: steals my stuff and names them swezy-tools (https://youtu.be/aBiVbyG7Mpw) and they are prob token grabbers.
+Reason: steals my tool and names them swezy (https://youtu.be/aBiVbyG7Mpw) and they are prob token grabbers.
 Skid-Rating: 2/10
 ```
 
