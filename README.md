@@ -11,7 +11,7 @@ Myself. Im a skid. Atleast i give credits. But not this skid-ish like these idio
 
 ```
 - Swezy
-Reason: steals my tool and names them swezy (https://youtu.be/aBiVbyG7Mpw) and they are prob token grabbers
+Reason: steals my tool and names them swezy (https://youtu.be/aBiVbyG7Mpw) and it is prob a token grabber
 Skid-Rating: 2/10
 URL/SOCIAL: 丂 山 乇 乙 ㄚ 🌺#9646   (646255253045379073)
 ```
