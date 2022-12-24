@@ -9,50 +9,50 @@ Myself. Im a skid. Atleast i give credits. But not this skid-ish like these idio
 
 <br>
 
-```
-- Swezy
-Reason: steals my tool and names them swezy (https://youtu.be/aBiVbyG7Mpw) and it is prob a token grabber
+```js
+- // Swezy
+Skid-Reason: // steals my tool and names them swezy. and it is prob a token grabber
 Skid-Rating: 2/10
-URL/SOCIAL: 丂 山 乇 乙 ㄚ 🌺#9646   (646255253045379073)
+URL/SOCIAL: // Discord-userID: 646255253045379073
 ```
 
-```
-- NightfallGT
-Reason: Dual-Hooked is Token Grabber
+```js
+- // NightfallGT
+Skid-Reason: // Dual-Hooked is Token Grabber
 Skid-Rating: 10/10
-URL/SOCIAL: https://github.com/nightfallgt
+URL/SOCIAL: // github.com/nightfallgt
 ```
 
-```
-- Exordium
-Reason: Fake 100$ Discord-Token-Gen lmao
+```js
+- // Exordium
+Skid-Reason: // Fake 100$ Discord-Token-Gen lmao
 Skid-Rating: 10/10
-URL/SOCIAL: https://www.youtube.com/@ExordiumYT
+URL/SOCIAL: // www.youtube.com/@ExordiumYT
 ```
 
-```
-- Kero / KeroX
-Reason: Using my tools with token grabbers
-Skid-Rating: 3/10
-URL/SOCIAL: (i nuked them, so they dont have any server anymore ig)
+```js
+- // Kero / KeroX
+Skid-Reason: // Using my tools with token grabbers
+Skid-Rating:  3/10
+URL/SOCIAL: // i nuked them, so they dont have any server anymore ig
 ```
 
-```
-- billythegoat356 / pystyle libary
-Reason: Added a RAT to his pystyle libary
+```js
+- // billythegoat356 / pystyle libary
+Skid-Reason: // Added a RAT to his pystyle libary
 Skid-Rating: 99999/10
-URL/SOCIAL: https://github.com/billythegoat356/
+URL/SOCIAL: // github.com/billythegoat356/
 ```
 
-```
-- TT-Tutorials
-Reason: Sells features of his GangNuker which you can find for free
+```js
+- // TT-Tutorials
+Skid-Reason: // Sells features of his GangNuker which you can find for free
 Skid-Rating: 7/10
-URL/SOCIAL: https://github.com/TT-Tutorials
+URL/SOCIAL: // github.com/TT-Tutorials
 ```
 
-```
-- picturing (credits to aithedev for the screenshot <3)
-Reason: he thinks that he has "depression". But he doesnt. Proof: https://a.pomf.cat/icuykj.png
+```js
+- // picturing (credits to aithedev for the screenshot <3)
+Skid-Reason: // he thinks that he has "depression". But he doesnt. Proof: https://a.pomf.cat/icuykj.png
 Skid-Rating: 4/10
-URL/SOCIAL: https://github.com/picturing
+URL/SOCIAL: // github.com/picturing
