@@ -50,3 +50,9 @@ Reason: Sells features of his GangNuker which you can find for free
 Skid-Rating: 7/10
 URL/SOCIAL: https://github.com/TT-Tutorials
 ```
+
+```
+- picturing (credits to aithedev for the screenshot <3)
+Reason: he thinks that he has "depression". But he doesnt. Proof: https://a.pomf.cat/icuykj.png
+Skid-Rating: 4/10
+URL/SOCIAL: https://github.com/picturing
