@@ -4,7 +4,10 @@ A list of all skids
 <b><a href="https://github.com/aithedev/skid-wiki">Credits to AiTheDev (skid.wiki)</a></b>
 
 ```
-Myself. Im a skid. Atleast i give credits. But not this skid-ish like these idiots:
+- //Myself
+Skid-Reason: Im a skid. Atleast i give credits. But not this skid-ish like these idiots:
+Skid-Rating: ?/10
+URL/SOCIAL: this is me
 ```
 
 <br>
