@@ -52,7 +52,7 @@ URL/SOCIAL: // github.com/TT-Tutorials
 ```
 
 ```js
-- zDripzz01
+- // zDripzz01
 Skid-Reason: // Compiles random python programs to exe and uploads these to github lmao (+ they are prob loggers)
 Skid-Rating: 6/10
 URL/SOCIAL: // https://github.com/zDripzz01
