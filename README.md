@@ -64,6 +64,13 @@ URL/SOCIAL: // https://github.com/zDripzz01
 ```
 
 ```js
+- // asynncc
+Skid-Reason: // His 'Saturn-Nuker' is an obfuscated python file. So **I GUESS** it is a logger!
+Skid-Rating: ?/10
+URL/SOCIAL: // https://github.com/asynncc
+```
+
+```js
 - // picturing (credits to aithedev for the screenshot <3)
 Skid-Reason: // he thinks that he has "depression". But he doesnt. Proof: https://a.pomf.cat/icuykj.png
 Skid-Rating: 4/10
