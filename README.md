@@ -1,5 +1,5 @@
-# skid-hall
-A list of all skids. Create an `'issue'` to submit skids!
+# Skid Hall
+## Create an `'issue'` to submit skids!
 
 <code><a href="https://en.wikipedia.org/wiki/Script_kiddie">What is a SKID?</a> / <a href="https://skid.wiki">AiTheDev's Skidwiki (Credits to him)</a>
 </code>
