@@ -1,7 +1,8 @@
 # skid-hall
-A list of all skids
+A list of all skids. Create an 'issue' to submit skids!
 
-<b><a href="https://github.com/aithedev/skid-wiki">Credits to AiTheDev (skid.wiki)</a></b>
+[Whats A Skid?](https://en.wikipedia.org/wiki/Script_kiddie)   /   [AiTheDev's Skid.Wiki (credits to him)](https://skid.wiki)
+
 
 ```js
 - // Myself
