@@ -10,9 +10,6 @@ Skid-Reason: // Im a skid. Atleast i give credits. But not this skid-ish like th
 Skid-Rating: ?/10
 URL/SOCIAL: // this is me
 ```
-
-<br>
-
 - - -
 ```js
 - // Swezy
