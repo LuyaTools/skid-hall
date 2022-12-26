@@ -52,6 +52,13 @@ URL/SOCIAL: // github.com/TT-Tutorials
 ```
 
 ```js
+- zDripzz01
+Skid-Reason: // Compiles random python programs to exe and uploads these to github lmao (+ they are prob loggers)
+Skid-Rating: 6/10
+URL/SOCIAL: // https://github.com/zDripzz01
+```
+
+```js
 - // picturing (credits to aithedev for the screenshot <3)
 Skid-Reason: // he thinks that he has "depression". But he doesnt. Proof: https://a.pomf.cat/icuykj.png
 Skid-Rating: 4/10
